@@ -1,0 +1,1566 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(final.py:720): Gdk-CRITICAL **: 21:54:02.939: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(final.py:720): Gdk-CRITICAL **: 21:54:02.944: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+INFO:root:epd7in5_V2 Demo
+INFO:root:init and Clear
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/share/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 14850
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 17827
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 25342
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 29028
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 28192
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 26263
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 21153
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 21412
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 22910
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 22178
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 22701
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 18176
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 19523
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 19616
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 20156
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 19963
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 20661
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 22089
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 22358
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 22601
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 19728
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 17211
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 17912
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 17929
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 18138
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 17992
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 17933
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 18788
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 18969
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 19505
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 19687
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 19403
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 20585
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 20302
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 20718
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 20221
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 26216
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 30855
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 35839
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 40781
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 44282
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 48436
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 53357
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 57085
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 61406
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 64352
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 65536
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 65536
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 65536
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 65536
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 65536
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 65536
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 65536
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+19.8
+[19.8]
+19.7
+[19.8, 19.7]
+19.8
+[19.8, 19.7, 19.8]
+19.6
+[19.8, 19.7, 19.8, 19.6]
+19.6
+[19.8, 19.7, 19.8, 19.6, 19.6]
+19.6
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6]
+19.5
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5]
+19.5
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5]
+19.4
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4]
+19.4
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4]
+19.4
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4]
+19.3
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3]
+19.2
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2]
+19.2
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2]
+19.1
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1]
+19.1
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1]
+19.0
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0]
+19.0
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0]
+19.0
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0]
+19.0
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0]
+18.9
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9]
+18.9
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9]
+18.8
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8]
+18.8
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8]
+18.8
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8]
+18.8
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8]
+18.7
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7]
+18.6
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6]
+18.6
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6]
+18.5
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5]
+18.5
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5]
+18.5
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5]
+18.4
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4]
+18.4
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4]
+18.4
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4]
+18.3
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3]
+18.2
+[19.8, 19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2]
+18.3
+[19.7, 19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3]
+18.2
+[19.8, 19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2]
+18.2
+[19.6, 19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2, 18.2]
+18.1
+[19.6, 19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2, 18.2, 18.1]
+18.1
+[19.6, 19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2, 18.2, 18.1, 18.1]
+18.1
+[19.5, 19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2, 18.2, 18.1, 18.1, 18.1]
+18.0
+[19.5, 19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2, 18.2, 18.1, 18.1, 18.1, 18.0]
+18.0
+[19.4, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2, 18.2, 18.1, 18.1, 18.1, 18.0, 18.0]
+17.9
+[19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2, 18.2, 18.1, 18.1, 18.1, 18.0, 18.0, 17.9]
+17.9
+[19.4, 19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2, 18.2, 18.1, 18.1, 18.1, 18.0, 18.0, 17.9, 17.9]
+17.9
+[19.3, 19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2, 18.2, 18.1, 18.1, 18.1, 18.0, 18.0, 17.9, 17.9, 17.9]
+17.8
+[19.2, 19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2, 18.2, 18.1, 18.1, 18.1, 18.0, 18.0, 17.9, 17.9, 17.9, 17.8]
+17.7
+[19.2, 19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2, 18.2, 18.1, 18.1, 18.1, 18.0, 18.0, 17.9, 17.9, 17.9, 17.8, 17.7]
+17.7
+[19.1, 19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2, 18.2, 18.1, 18.1, 18.1, 18.0, 18.0, 17.9, 17.9, 17.9, 17.8, 17.7, 17.7]
+17.6
+[19.1, 19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2, 18.2, 18.1, 18.1, 18.1, 18.0, 18.0, 17.9, 17.9, 17.9, 17.8, 17.7, 17.7, 17.6]
+17.7
+[19.0, 19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2, 18.2, 18.1, 18.1, 18.1, 18.0, 18.0, 17.9, 17.9, 17.9, 17.8, 17.7, 17.7, 17.6, 17.7]
+17.6
+[19.0, 19.0, 19.0, 18.9, 18.9, 18.8, 18.8, 18.8, 18.8, 18.7, 18.6, 18.6, 18.5, 18.5, 18.5, 18.4, 18.4, 18.4, 18.3, 18.2, 18.3, 18.2, 18.2, 18.1, 18.1, 18.1, 18.0, 18.0, 17.9, 17.9, 17.9, 17.8, 17.7, 17.7, 17.6, 17.7, 17.6]DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 65536
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 65536
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 65536
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 65536
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:2.Drawing on the Vertical image...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:4.read bmp file on window
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 65536
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+INFO:root:Goto Sleep...
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy
+DEBUG:waveshare_epd.epd7in5_V2:e-Paper busy release
+DEBUG:waveshare_epd.epdconfig:spi end
+DEBUG:waveshare_epd.epdconfig:close 5V, Module enters 0 power consumption ...
